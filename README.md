@@ -1,2 +1,2 @@
 # minnexstyles
-Styles for FFXIV MMO, curated by the Minnex Institute
+Styles for FFXIV MMO, curated by the Minex Institute
